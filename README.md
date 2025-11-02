@@ -1,10 +1,8 @@
-<!-- ✨ Ultimate GitHub Profile README for theEquinoxDev ✨ -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+theEquinoxDev+👋;Full-Stack+Web+Developer+💻;Poet+%26+Creative+Thinker+✍️;Always+learning+something+new+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+theEquinoxDev+👋;Full-Stack+Web+Developer+💻;Poet+%26+Creative+Thinker+;Always+learning+something+new+" alt="Typing SVG" />
 </p>
 
-<h1 align="center">🌌 theEquinoxDev</h1>
+<h1 align="center">theEquinoxDev</h1>
 <h3 align="center">3rd Year B.Tech CSE Student | MERN Stack Developer | Web3 & Next.js Explorer</h3>
 
 ---
@@ -24,12 +22,12 @@
 
 #### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb,bootstrap,tailwind,java" />
 </p>
 
 #### ⚙️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,linux,npm,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,linux,npm,netlify,render,railway" />
 </p>
 
 ---
@@ -115,7 +113,7 @@
 ### 🪐 Connect With Me
 
 <p align="center">
-  <a href="mailto:example@email.com" target="_blank">
+  <a href="adityasuri11ss@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/theEquinoxDev" target="_blank">
@@ -124,7 +122,7 @@
   <a href="https://linkedin.com/in/theEquinoxDev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/theEquinoxDev" target="_blank">
+  <a href="https://x.com/theEquinoxDev" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
@@ -151,4 +149,4 @@
 
 ---
 
-⭐ **From [theEquinoxDev](https://github.com/theEquinoxDev)** — crafting logic and art in equal measure.
+⭐ **From [theEquinoxDev](https://github.com/theEquinoxDev)** - crafting logic and art in equal measure.
