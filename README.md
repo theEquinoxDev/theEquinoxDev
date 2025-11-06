@@ -129,23 +129,10 @@
 
 ---
 
-### 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=theEquinoxDev&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
-
----
-
 ### 🌌 Final Words
 
 > 💭 “Keep building. Keep creating. Keep dreaming.”  
 > ✨ Every line of code you write is a line of poetry for the digital world.
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
 
 ---
 
