@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+theEquinoxDev+👋;Full-Stack+Web+Developer+💻;Poet+%26+Creative+Thinker+;Always+learning+something+new+" alt="Typing SVG" />
 </p>
 
-<h1 align="center">theEquinoxDev</h1>
-<h3 align="center">3rd Year B.Tech CSE Student | MERN Stack Developer | Web3 & Next.js Explorer</h3>
-
 ---
 
 ### 🧭 About Me
