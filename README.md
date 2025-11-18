@@ -59,14 +59,3 @@
     <img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
-
----
-
-### 🌌 Final Words
-
-> 💭 “Keep building. Keep creating. Keep dreaming.”  
-> ✨ Every line of code you write is a line of poetry for the digital world.
-
----
-
-⭐ **From [theEquinoxDev](https://github.com/theEquinoxDev)** - crafting logic and art in equal measure.
