@@ -9,10 +9,7 @@
 - 🎓 3rd Year **Computer Science Engineering** student with a passion for web development  
 - 💻 I build scalable full-stack apps using the **MERN stack**  
 - 🌱 Currently exploring **Next.js**, **TypeScript**, and **Web3** technologies  
-- 🌐 I love solving problems and contributing to **open-source projects**  
-- ✍️ I’m also a **poet**, because both code and poetry are languages of creation  
-- ⚡ Fun fact: I think in logic, but I dream in rhythm  
-
+- 🌐 I love solving problems and contributing to **open-source projects** 
 ---
 
 ### 🧠 Tech Stack
@@ -24,7 +21,7 @@
 
 #### ⚙️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,linux,npm,netlify,render,railway" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,npm,netlify,render,railway" />
 </p>
 
 ---
