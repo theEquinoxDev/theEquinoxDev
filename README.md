@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+theEquinoxDev+👋;Full-Stack+Web+Developer+;Always+learning+something+new+" alt="Typing SVG" />
-</p>
 
----
 
 ### 🧭 About Me
 
@@ -32,13 +28,6 @@
 - 🎯 Constantly improving as a developer and creator  
 ---
 
-### ✨ Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
-</p>
-
----
 
 ### 🪐 Connect With Me
 
