@@ -2,8 +2,8 @@
 - Currently exploring Web3
 - Contributed to OSS in webpack documentation, webpack-bundle-analyzer. 
 - projects I have built -
-  2. **[PrepArchive](https://preparchive.in)** (Launching Soon)
-  1. **[ProjectCollab](https://projectcollab-web.vercel.app)**
+  1. **[PrepArchive](https://preparchive.in)** (Launching Soon)
+  2. **[ProjectCollab](https://projectcollab-web.vercel.app)**
   3. **[Relto](https://relto-web.vercel.app)** (Hackathon Project)
   4. **[ZeroTrace Chat](https://zerotrace-chat.vercel.app)**
   5. **[VerseSpace](https://versespace.vercel.app)** (not very proud of how it turned out)
