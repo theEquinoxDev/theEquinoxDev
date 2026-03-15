@@ -1,5 +1,5 @@
 - Full Stack Dev ( Mern, Typescript, Nextjs, Rust, Java, and many more)
-- Currently exploring Web3
+- Currently exploring Web3 ( need to learn time management though as I'm not being consistent at all )
 - Contributed to OSS in webpack documentation, webpack-bundle-analyzer. 
 - projects I have built -
   1. **[PrepArchive](https://preparchive.in)** (Launching Soon)
@@ -9,4 +9,6 @@
   5. **[VerseSpace](https://versespace.vercel.app)** (not very proud of how it turned out)
   6. **[ZeroX Wallet](https://zerox-wallet.vercel.app)** (not responsive yet)
   7. **[DevAuth](https://github.com/theEquinoxDev/DevAuth)**
+ 
+  **Just so you know, frontends for most of my projects are mostly by AI. But I don't vibe code blindly!**
 > contact me at - equinoxdev32@gmail.com
