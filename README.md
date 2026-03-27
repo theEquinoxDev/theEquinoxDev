@@ -1,5 +1,5 @@
 - Full Stack Dev ( Mern, Typescript, Nextjs, Rust, Java, and many more)
-- Currently exploring Web3 ( need to learn time management though as I'm not being consistent at all )
+- Currently exploring Web3 as well as DevOps ( need to learn time management though as I'm not being consistent at all )
 - Contributed to OSS in webpack documentation, webpack-bundle-analyzer. 
 - projects I have built -
   1. **[PrepArchive](https://preparchive.in)** (Launching Soon)
