@@ -10,5 +10,4 @@
   6. **[ZeroX Wallet](https://zerox-wallet.vercel.app)** (not responsive yet)
   7. **[DevAuth](https://github.com/theEquinoxDev/DevAuth)**
  
-  **Just so you know, I use AI to develop Frontends for most of my Projects but it doesn't get approved directly. I review the code and only then I move forward.**
-> contact me at - equinoxdev32@gmail.com
+ > contact me at - equinoxdev32@gmail.com
