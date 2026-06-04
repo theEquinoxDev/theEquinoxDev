@@ -1,5 +1,5 @@
-- Full Stack Dev ( Mern, Typescript, Nextjs, Rust, Java, and many more)
-- Currently learning about DevOps
+- Full Stack Dev ( Nextjs, TypeScript, MERN, Rust, Java, and many more)
+- Currently learning about Applied AI.
 - Contributed to **OSS in webpack documentation, webpack-bundle-analyzer**. 
 - projects I have built -
   1. **[PrepArchive](https://preparchive.in)** (The Project I'm most proud of as of yet)
